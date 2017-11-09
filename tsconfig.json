@@ -1,0 +1,12 @@
+{
+    "include": [
+        "./src/**/*.ts"
+    ],
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "outDir": "./build",
+        "target": "es6",
+        "module": "commonjs",
+        "rootDir": "./src"
+    }
+}
